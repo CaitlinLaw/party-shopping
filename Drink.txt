@@ -5,3 +5,6 @@ Wine
 Beer
 Orange juice
 Cola 
+Happiness
+Love
+Water (hydration is key)
